@@ -1,0 +1,8 @@
+node_modules
+build
+
+input.pdf
+output.pdf
+name_list.txt
+
+pdf-labeler-*
